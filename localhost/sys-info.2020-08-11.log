@@ -1,0 +1,232 @@
+10:44:24.985 [restartedMain] INFO  c.z.AsuleController - [logStarting,55] - Starting AsuleController on JLQNXWUW2GTD0WI with PID 8332 (E:\ideaProject\asule0810\ausle-admin\target\classes started by Administrator in E:\ideaProject\asule0810)
+10:44:24.997 [restartedMain] INFO  c.z.AsuleController - [logStartupProfileInfo,655] - The following profiles are active: dev
+10:44:28.424 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-28894"]
+10:44:28.426 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+10:44:28.426 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.36]
+10:44:28.650 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+10:44:28.772 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Stopping service [Tomcat]
+10:48:46.784 [restartedMain] INFO  c.z.AsuleController - [logStarting,55] - Starting AsuleController on JLQNXWUW2GTD0WI with PID 8848 (E:\ideaProject\asule0810\ausle-admin\target\classes started by Administrator in E:\ideaProject\asule0810)
+10:48:46.789 [restartedMain] INFO  c.z.AsuleController - [logStartupProfileInfo,655] - The following profiles are active: dev
+10:48:49.212 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-28894"]
+10:48:49.213 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+10:48:49.213 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.36]
+10:48:49.427 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+10:48:49.613 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Stopping service [Tomcat]
+10:50:19.980 [restartedMain] INFO  c.z.AsuleController - [logStarting,55] - Starting AsuleController on JLQNXWUW2GTD0WI with PID 8912 (E:\ideaProject\asule0810\ausle-admin\target\classes started by Administrator in E:\ideaProject\asule0810)
+10:50:19.982 [restartedMain] INFO  c.z.AsuleController - [logStartupProfileInfo,655] - The following profiles are active: dev
+10:50:21.396 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-28894"]
+10:50:21.397 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+10:50:21.397 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.36]
+10:50:21.503 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+10:50:22.067 [restartedMain] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure - [dataSource,56] - Init DruidDataSource
+10:50:22.155 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Stopping service [Tomcat]
+10:50:51.355 [restartedMain] INFO  c.z.AsuleController - [logStarting,55] - Starting AsuleController on JLQNXWUW2GTD0WI with PID 8152 (E:\ideaProject\asule0810\ausle-admin\target\classes started by Administrator in E:\ideaProject\asule0810)
+10:50:51.357 [restartedMain] INFO  c.z.AsuleController - [logStartupProfileInfo,655] - The following profiles are active: dev
+10:50:52.547 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-28894"]
+10:50:52.547 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+10:50:52.548 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.36]
+10:50:52.664 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+10:50:53.066 [restartedMain] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure - [dataSource,56] - Init DruidDataSource
+10:50:53.172 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Stopping service [Tomcat]
+10:53:03.796 [restartedMain] INFO  c.z.AsuleController - [logStarting,55] - Starting AsuleController on JLQNXWUW2GTD0WI with PID 7680 (E:\ideaProject\asule0810\ausle-admin\target\classes started by Administrator in E:\ideaProject\asule0810)
+10:53:03.822 [restartedMain] INFO  c.z.AsuleController - [logStartupProfileInfo,655] - The following profiles are active: dev
+10:53:06.449 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-28894"]
+10:53:06.451 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+10:53:06.451 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.36]
+10:53:06.666 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+10:53:07.514 [restartedMain] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure - [dataSource,56] - Init DruidDataSource
+10:53:08.840 [restartedMain] INFO  c.a.d.p.DruidDataSource - [init,1003] - {dataSource-1} inited
+10:53:12.367 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-28894"]
+10:53:12.481 [restartedMain] INFO  c.z.AsuleController - [logStarted,61] - Started AsuleController in 9.101 seconds (JVM running for 11.387)
+10:59:58.924 [restartedMain] INFO  c.z.AsuleController - [logStarting,55] - Starting AsuleController on JLQNXWUW2GTD0WI with PID 4844 (E:\ideaProject\asule0810\ausle-admin\target\classes started by Administrator in E:\ideaProject\asule0810)
+10:59:58.949 [restartedMain] INFO  c.z.AsuleController - [logStartupProfileInfo,655] - The following profiles are active: dev
+11:00:01.065 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-28894"]
+11:00:01.065 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+11:00:01.066 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.36]
+11:00:01.202 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+11:00:01.861 [restartedMain] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure - [dataSource,56] - Init DruidDataSource
+11:00:02.310 [restartedMain] INFO  c.a.d.p.DruidDataSource - [init,1003] - {dataSource-1} inited
+11:00:03.539 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-28894"]
+11:00:03.598 [restartedMain] INFO  c.z.AsuleController - [logStarted,61] - Started AsuleController in 5.617 seconds (JVM running for 7.832)
+11:00:44.319 [restartedMain] INFO  c.z.AsuleController - [logStarting,55] - Starting AsuleController on JLQNXWUW2GTD0WI with PID 3528 (E:\ideaProject\asule0810\ausle-admin\target\classes started by Administrator in E:\ideaProject\asule0810)
+11:00:44.321 [restartedMain] INFO  c.z.AsuleController - [logStartupProfileInfo,655] - The following profiles are active: dev
+11:00:45.502 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-28894"]
+11:00:45.502 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+11:00:45.502 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.36]
+11:00:45.618 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+11:00:46.016 [restartedMain] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure - [dataSource,56] - Init DruidDataSource
+11:00:46.192 [restartedMain] INFO  c.a.d.p.DruidDataSource - [init,1003] - {dataSource-1} inited
+11:00:47.077 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-28894"]
+11:00:47.118 [restartedMain] INFO  c.z.AsuleController - [logStarted,61] - Started AsuleController in 3.05 seconds (JVM running for 3.954)
+11:02:24.901 [restartedMain] INFO  c.z.AsuleController - [logStarting,55] - Starting AsuleController on JLQNXWUW2GTD0WI with PID 6828 (E:\ideaProject\asule0810\ausle-admin\target\classes started by Administrator in E:\ideaProject\asule0810)
+11:02:24.903 [restartedMain] INFO  c.z.AsuleController - [logStartupProfileInfo,655] - The following profiles are active: dev
+11:02:26.444 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-28894"]
+11:02:26.445 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+11:02:26.445 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.36]
+11:02:26.577 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+11:02:26.984 [restartedMain] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure - [dataSource,56] - Init DruidDataSource
+11:02:27.197 [restartedMain] INFO  c.a.d.p.DruidDataSource - [init,1003] - {dataSource-1} inited
+11:02:28.245 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-28894"]
+11:02:28.294 [restartedMain] INFO  c.z.AsuleController - [logStarted,61] - Started AsuleController in 3.732 seconds (JVM running for 4.481)
+11:03:33.496 [restartedMain] INFO  c.z.AsuleController - [logStarting,55] - Starting AsuleController on JLQNXWUW2GTD0WI with PID 8660 (E:\ideaProject\asule0810\ausle-admin\target\classes started by Administrator in E:\ideaProject\asule0810)
+11:03:33.499 [restartedMain] INFO  c.z.AsuleController - [logStartupProfileInfo,655] - The following profiles are active: dev
+11:03:34.751 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-28894"]
+11:03:34.752 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+11:03:34.752 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.36]
+11:03:34.845 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+11:03:35.260 [restartedMain] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure - [dataSource,56] - Init DruidDataSource
+11:03:35.439 [restartedMain] INFO  c.a.d.p.DruidDataSource - [init,1003] - {dataSource-1} inited
+11:03:36.533 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-28894"]
+11:03:36.583 [restartedMain] INFO  c.z.AsuleController - [logStarted,61] - Started AsuleController in 3.36 seconds (JVM running for 4.566)
+15:21:36.639 [restartedMain] INFO  c.z.AsuleController - [logStarting,55] - Starting AsuleController on JLQNXWUW2GTD0WI with PID 7916 (E:\ideaProject\asule0810\ausle-admin\target\classes started by Administrator in E:\ideaProject\asule0810)
+15:21:36.660 [restartedMain] INFO  c.z.AsuleController - [logStartupProfileInfo,655] - The following profiles are active: dev
+15:21:40.664 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-28894"]
+15:21:40.665 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+15:21:40.665 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.36]
+15:21:40.894 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+15:21:41.289 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Stopping service [Tomcat]
+15:23:59.757 [restartedMain] INFO  c.z.AsuleController - [logStarting,55] - Starting AsuleController on JLQNXWUW2GTD0WI with PID 1072 (E:\ideaProject\asule0810\ausle-admin\target\classes started by Administrator in E:\ideaProject\asule0810)
+15:23:59.776 [restartedMain] INFO  c.z.AsuleController - [logStartupProfileInfo,655] - The following profiles are active: dev
+15:24:03.566 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+15:24:03.567 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+15:24:03.567 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.36]
+15:24:03.795 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+15:24:04.197 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Stopping service [Tomcat]
+15:30:23.350 [restartedMain] INFO  c.z.AsuleController - [logStarting,55] - Starting AsuleController on JLQNXWUW2GTD0WI with PID 9268 (E:\ideaProject\asule0810\ausle-admin\target\classes started by Administrator in E:\ideaProject\asule0810)
+15:30:23.359 [restartedMain] INFO  c.z.AsuleController - [logStartupProfileInfo,655] - The following profiles are active: dev
+15:30:30.763 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+15:30:30.766 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+15:30:30.766 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.36]
+15:30:30.997 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+15:30:34.028 [restartedMain] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure - [dataSource,56] - Init DruidDataSource
+15:30:34.702 [restartedMain] INFO  c.a.d.p.DruidDataSource - [init,1003] - {dataSource-1} inited
+15:30:38.229 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+15:30:38.354 [restartedMain] INFO  c.z.AsuleController - [logStarted,61] - Started AsuleController in 15.867 seconds (JVM running for 18.462)
+15:32:28.777 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+15:37:19.448 [restartedMain] INFO  c.z.AsuleController - [logStarting,55] - Starting AsuleController on JLQNXWUW2GTD0WI with PID 10640 (E:\ideaProject\asule0810\ausle-admin\target\classes started by Administrator in E:\ideaProject\asule0810)
+15:37:19.476 [restartedMain] INFO  c.z.AsuleController - [logStartupProfileInfo,655] - The following profiles are active: dev
+15:37:29.550 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+15:37:29.551 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+15:37:29.551 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.36]
+15:37:29.818 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+15:37:30.692 [restartedMain] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure - [dataSource,56] - Init DruidDataSource
+15:37:31.200 [restartedMain] INFO  c.a.d.p.DruidDataSource - [init,1003] - {dataSource-1} inited
+15:37:33.432 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+15:37:33.532 [restartedMain] INFO  c.z.AsuleController - [logStarted,61] - Started AsuleController in 14.836 seconds (JVM running for 17.15)
+15:37:44.238 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+15:39:43.976 [restartedMain] INFO  c.z.AsuleController - [logStarting,55] - Starting AsuleController on JLQNXWUW2GTD0WI with PID 10068 (E:\ideaProject\asule0810\ausle-admin\target\classes started by Administrator in E:\ideaProject\asule0810)
+15:39:43.984 [restartedMain] INFO  c.z.AsuleController - [logStartupProfileInfo,655] - The following profiles are active: dev
+15:39:46.171 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+15:39:46.172 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+15:39:46.172 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.36]
+15:39:47.017 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+15:39:47.589 [restartedMain] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure - [dataSource,56] - Init DruidDataSource
+15:39:47.966 [restartedMain] INFO  c.a.d.p.DruidDataSource - [init,1003] - {dataSource-1} inited
+15:39:49.191 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+15:39:49.333 [restartedMain] INFO  c.z.AsuleController - [logStarted,61] - Started AsuleController in 6.203 seconds (JVM running for 7.845)
+15:40:12.377 [http-nio-8080-exec-4] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+15:40:39.363 [schedule-pool-1] INFO  sys-user - [run,57] - [127.0.0.1]内网IP[admin][Error][
+### Error querying database.  Cause: java.sql.SQLSyntaxErrorException: Unknown column 'salt' in 'field list'
+### The error may exist in com/zjx/system/mapper/UserMapper.java (best guess)
+### The error may involve defaultParameterMap
+### The error occurred while setting parameters
+### SQL: SELECT  user_id,dept_id,user_name,nick_name,email,phonenumber,sex,avatar,password,salt,status,del_flag,login_ip,login_date,dept,roles,role_ids,post_ids,search_value,create_by,create_time,update_by,update_time,remark,begin_time,end_time,params  FROM sys_user     WHERE (username = ?)
+### Cause: java.sql.SQLSyntaxErrorException: Unknown column 'salt' in 'field list'
+; bad SQL grammar []; nested exception is java.sql.SQLSyntaxErrorException: Unknown column 'salt' in 'field list']
+15:54:59.425 [restartedMain] INFO  c.z.AsuleController - [logStarting,55] - Starting AsuleController on JLQNXWUW2GTD0WI with PID 12368 (E:\ideaProject\asule0810\ausle-admin\target\classes started by Administrator in E:\ideaProject\asule0810)
+15:54:59.430 [restartedMain] INFO  c.z.AsuleController - [logStartupProfileInfo,655] - The following profiles are active: dev
+15:55:04.995 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+15:55:05.002 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+15:55:05.002 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.36]
+15:55:05.209 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+15:55:06.173 [restartedMain] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure - [dataSource,56] - Init DruidDataSource
+15:55:06.680 [restartedMain] INFO  c.a.d.p.DruidDataSource - [init,1003] - {dataSource-1} inited
+15:55:08.371 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+15:55:08.477 [restartedMain] INFO  c.z.AsuleController - [logStarted,61] - Started AsuleController in 9.9 seconds (JVM running for 13.714)
+15:55:37.756 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+15:56:25.677 [schedule-pool-1] INFO  sys-user - [run,57] - [127.0.0.1]内网IP[admin][Error][
+### Error querying database.  Cause: java.sql.SQLSyntaxErrorException: Unknown column 'salt' in 'field list'
+### The error may exist in com/zjx/system/mapper/UserMapper.java (best guess)
+### The error may involve defaultParameterMap
+### The error occurred while setting parameters
+### SQL: SELECT  user_id,dept_id,user_name,nick_name,email,phonenumber,sex,avatar,password,salt,status,del_flag,login_ip,login_date,dept,roles,role_ids,post_ids,search_value,create_by,create_time,update_by,update_time,remark,begin_time,end_time,params  FROM sys_user     WHERE (username = ?)
+### Cause: java.sql.SQLSyntaxErrorException: Unknown column 'salt' in 'field list'
+; bad SQL grammar []; nested exception is java.sql.SQLSyntaxErrorException: Unknown column 'salt' in 'field list']
+16:00:43.596 [SpringContextShutdownHook] INFO  sys-user - [shutdownAsyncManager,32] - ====关闭后台任务任务线程池====
+16:00:43.598 [SpringContextShutdownHook] INFO  c.a.d.p.DruidDataSource - [close,1948] - {dataSource-1} closing ...
+16:00:43.625 [SpringContextShutdownHook] INFO  c.a.d.p.DruidDataSource - [close,2020] - {dataSource-1} closed
+16:00:55.501 [restartedMain] INFO  c.z.AsuleController - [logStarting,55] - Starting AsuleController on JLQNXWUW2GTD0WI with PID 13896 (E:\ideaProject\asule0810\ausle-admin\target\classes started by Administrator in E:\ideaProject\asule0810)
+16:00:55.509 [restartedMain] INFO  c.z.AsuleController - [logStartupProfileInfo,655] - The following profiles are active: dev
+16:00:58.124 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+16:00:58.125 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+16:00:58.125 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.36]
+16:00:58.243 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+16:00:58.829 [restartedMain] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure - [dataSource,56] - Init DruidDataSource
+16:00:59.147 [restartedMain] INFO  c.a.d.p.DruidDataSource - [init,1003] - {dataSource-1} inited
+16:01:00.553 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+16:01:00.643 [restartedMain] INFO  c.z.AsuleController - [logStarted,61] - Started AsuleController in 6.059 seconds (JVM running for 7.92)
+16:01:35.606 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+16:01:53.227 [schedule-pool-1] INFO  sys-user - [run,57] - [127.0.0.1]内网IP[admin][Error][
+### Error querying database.  Cause: java.sql.SQLSyntaxErrorException: Unknown column 'dept' in 'field list'
+### The error may exist in com/zjx/system/mapper/UserMapper.java (best guess)
+### The error may involve defaultParameterMap
+### The error occurred while setting parameters
+### SQL: SELECT  user_id,dept_id,user_name,nick_name,email,phonenumber,sex,avatar,password,status,del_flag,login_ip,login_date,dept,roles,role_ids,post_ids,search_value,create_by,create_time,update_by,update_time,remark,begin_time,end_time,params  FROM sys_user     WHERE (user_name = ?)
+### Cause: java.sql.SQLSyntaxErrorException: Unknown column 'dept' in 'field list'
+; bad SQL grammar []; nested exception is java.sql.SQLSyntaxErrorException: Unknown column 'dept' in 'field list']
+16:07:50.367 [restartedMain] INFO  c.z.AsuleController - [logStarting,55] - Starting AsuleController on JLQNXWUW2GTD0WI with PID 9700 (E:\ideaProject\asule0810\ausle-admin\target\classes started by Administrator in E:\ideaProject\asule0810)
+16:07:50.389 [restartedMain] INFO  c.z.AsuleController - [logStartupProfileInfo,655] - The following profiles are active: dev
+16:07:53.380 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+16:07:53.381 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+16:07:53.381 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.36]
+16:07:53.513 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+16:07:54.211 [restartedMain] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure - [dataSource,56] - Init DruidDataSource
+16:07:54.524 [restartedMain] INFO  c.a.d.p.DruidDataSource - [init,1003] - {dataSource-1} inited
+16:07:56.603 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+16:07:56.695 [restartedMain] INFO  c.z.AsuleController - [logStarted,61] - Started AsuleController in 7.132 seconds (JVM running for 9.222)
+16:08:05.433 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+16:08:10.289 [schedule-pool-1] INFO  sys-user - [run,57] - [127.0.0.1]内网IP[admin][Error][Could not find result map 'com.zjx.common.core.domain.entity.SysUser' referenced from 'com.zjx.system.mapper.UserMapper.selectUserByUserName']
+16:12:11.969 [restartedMain] INFO  c.z.AsuleController - [logStarting,55] - Starting AsuleController on JLQNXWUW2GTD0WI with PID 13420 (E:\ideaProject\asule0810\ausle-admin\target\classes started by Administrator in E:\ideaProject\asule0810)
+16:12:11.994 [restartedMain] INFO  c.z.AsuleController - [logStartupProfileInfo,655] - The following profiles are active: dev
+16:12:14.280 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+16:12:14.281 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+16:12:14.281 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.36]
+16:12:14.405 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+16:12:14.954 [restartedMain] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure - [dataSource,56] - Init DruidDataSource
+16:12:15.320 [restartedMain] INFO  c.a.d.p.DruidDataSource - [init,1003] - {dataSource-1} inited
+16:12:16.594 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+16:12:16.640 [restartedMain] INFO  c.z.AsuleController - [logStarted,61] - Started AsuleController in 5.725 seconds (JVM running for 8.387)
+16:12:23.444 [restartedMain] INFO  c.z.AsuleController - [logStarting,55] - Starting AsuleController on JLQNXWUW2GTD0WI with PID 7856 (E:\ideaProject\asule0810\ausle-admin\target\classes started by Administrator in E:\ideaProject\asule0810)
+16:12:23.446 [restartedMain] INFO  c.z.AsuleController - [logStartupProfileInfo,655] - The following profiles are active: dev
+16:12:24.726 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+16:12:24.726 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+16:12:24.727 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.36]
+16:12:24.870 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+16:12:25.333 [restartedMain] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure - [dataSource,56] - Init DruidDataSource
+16:12:25.524 [restartedMain] INFO  c.a.d.p.DruidDataSource - [init,1003] - {dataSource-1} inited
+16:12:26.477 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+16:12:26.518 [restartedMain] INFO  c.z.AsuleController - [logStarted,61] - Started AsuleController in 3.683 seconds (JVM running for 4.915)
+16:12:34.529 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+16:15:38.874 [restartedMain] INFO  c.z.AsuleController - [logStarting,55] - Starting AsuleController on JLQNXWUW2GTD0WI with PID 12364 (E:\ideaProject\asule0810\ausle-admin\target\classes started by Administrator in E:\ideaProject\asule0810)
+16:15:38.882 [restartedMain] INFO  c.z.AsuleController - [logStartupProfileInfo,655] - The following profiles are active: dev
+16:15:40.785 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+16:15:40.785 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+16:15:40.785 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.36]
+16:15:40.912 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+16:15:41.425 [restartedMain] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure - [dataSource,56] - Init DruidDataSource
+16:15:41.718 [restartedMain] INFO  c.a.d.p.DruidDataSource - [init,1003] - {dataSource-1} inited
+16:15:42.889 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+16:15:42.948 [restartedMain] INFO  c.z.AsuleController - [logStarted,61] - Started AsuleController in 4.784 seconds (JVM running for 6.863)
+16:16:17.057 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+16:44:56.877 [restartedMain] INFO  c.z.AsuleController - [logStarting,55] - Starting AsuleController on JLQNXWUW2GTD0WI with PID 9488 (E:\ideaProject\asule0810\ausle-admin\target\classes started by Administrator in E:\ideaProject\asule0810)
+16:44:56.880 [restartedMain] INFO  c.z.AsuleController - [logStartupProfileInfo,655] - The following profiles are active: dev
+16:44:59.550 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+16:44:59.562 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+16:44:59.562 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.36]
+16:45:00.345 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+16:45:01.033 [restartedMain] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure - [dataSource,56] - Init DruidDataSource
+16:45:01.456 [restartedMain] INFO  c.a.d.p.DruidDataSource - [init,1003] - {dataSource-1} inited
+16:45:03.429 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+16:45:03.524 [restartedMain] INFO  c.z.AsuleController - [logStarted,61] - Started AsuleController in 7.657 seconds (JVM running for 9.121)
+16:45:50.038 [http-nio-8080-exec-2] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+16:45:56.053 [schedule-pool-1] INFO  sys-user - [run,57] - [127.0.0.1]内网IP[admin][Success][登录成功]

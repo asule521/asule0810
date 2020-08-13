@@ -1,0 +1,27 @@
+15:40:39.363 [schedule-pool-1] INFO  sys-user - [run,57] - [127.0.0.1]内网IP[admin][Error][
+### Error querying database.  Cause: java.sql.SQLSyntaxErrorException: Unknown column 'salt' in 'field list'
+### The error may exist in com/zjx/system/mapper/UserMapper.java (best guess)
+### The error may involve defaultParameterMap
+### The error occurred while setting parameters
+### SQL: SELECT  user_id,dept_id,user_name,nick_name,email,phonenumber,sex,avatar,password,salt,status,del_flag,login_ip,login_date,dept,roles,role_ids,post_ids,search_value,create_by,create_time,update_by,update_time,remark,begin_time,end_time,params  FROM sys_user     WHERE (username = ?)
+### Cause: java.sql.SQLSyntaxErrorException: Unknown column 'salt' in 'field list'
+; bad SQL grammar []; nested exception is java.sql.SQLSyntaxErrorException: Unknown column 'salt' in 'field list']
+15:56:25.677 [schedule-pool-1] INFO  sys-user - [run,57] - [127.0.0.1]内网IP[admin][Error][
+### Error querying database.  Cause: java.sql.SQLSyntaxErrorException: Unknown column 'salt' in 'field list'
+### The error may exist in com/zjx/system/mapper/UserMapper.java (best guess)
+### The error may involve defaultParameterMap
+### The error occurred while setting parameters
+### SQL: SELECT  user_id,dept_id,user_name,nick_name,email,phonenumber,sex,avatar,password,salt,status,del_flag,login_ip,login_date,dept,roles,role_ids,post_ids,search_value,create_by,create_time,update_by,update_time,remark,begin_time,end_time,params  FROM sys_user     WHERE (username = ?)
+### Cause: java.sql.SQLSyntaxErrorException: Unknown column 'salt' in 'field list'
+; bad SQL grammar []; nested exception is java.sql.SQLSyntaxErrorException: Unknown column 'salt' in 'field list']
+16:00:43.596 [SpringContextShutdownHook] INFO  sys-user - [shutdownAsyncManager,32] - ====关闭后台任务任务线程池====
+16:01:53.227 [schedule-pool-1] INFO  sys-user - [run,57] - [127.0.0.1]内网IP[admin][Error][
+### Error querying database.  Cause: java.sql.SQLSyntaxErrorException: Unknown column 'dept' in 'field list'
+### The error may exist in com/zjx/system/mapper/UserMapper.java (best guess)
+### The error may involve defaultParameterMap
+### The error occurred while setting parameters
+### SQL: SELECT  user_id,dept_id,user_name,nick_name,email,phonenumber,sex,avatar,password,status,del_flag,login_ip,login_date,dept,roles,role_ids,post_ids,search_value,create_by,create_time,update_by,update_time,remark,begin_time,end_time,params  FROM sys_user     WHERE (user_name = ?)
+### Cause: java.sql.SQLSyntaxErrorException: Unknown column 'dept' in 'field list'
+; bad SQL grammar []; nested exception is java.sql.SQLSyntaxErrorException: Unknown column 'dept' in 'field list']
+16:08:10.289 [schedule-pool-1] INFO  sys-user - [run,57] - [127.0.0.1]内网IP[admin][Error][Could not find result map 'com.zjx.common.core.domain.entity.SysUser' referenced from 'com.zjx.system.mapper.UserMapper.selectUserByUserName']
+16:45:56.053 [schedule-pool-1] INFO  sys-user - [run,57] - [127.0.0.1]内网IP[admin][Success][登录成功]

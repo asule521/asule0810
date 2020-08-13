@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="asule-common" />
+        <module name="asule-framework" />
+        <module name="asule-system" />
+        <module name="ausle-admin" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="asule-common" options="-parameters" />
+      <module name="asule-framework" options="-parameters" />
+      <module name="asule-system" options="-parameters" />
+      <module name="ausle-admin" options="-parameters" />
+    </option>
+  </component>
+</project>

@@ -1,0 +1,30 @@
+spring:
+  datasource:
+    druid:
+      url: jdbc:oracle:thin:@50.2.34.26:1521:orcl
+      username: xsh
+      password: 1zhxcqL!
+      initial-size: 1
+      min-idle: 1
+      max-active: 10
+      validation-query: select 1 from dual
+      time-between-connect-error-millis: 60000
+      min-evictable-idle-time-millis: 300000
+      test-on-borrow: true
+      test-while-idle: true
+      pool-prepared-statements: true
+      max-pool-prepared-statement-per-connection-size: 20
+
+
+server:
+  port: 28894
+
+node-id: 1
+
+#日志相关配置
+log:
+  path: /home/logs
+  #日志级别
+  level: info
+  #sql相关日志打印，debug以下打印，info以上不打印
+  sql: debug
